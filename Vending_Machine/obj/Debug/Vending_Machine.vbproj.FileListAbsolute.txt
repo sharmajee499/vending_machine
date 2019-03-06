@@ -1,0 +1,34 @@
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.xml
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.frm_vending_main.resources
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Resources.resources
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.vbproj.GenerateResource.Cache
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.xml
+c:\users\nicholls\documents\visual studio 2012\Projects\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
+E:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.xml
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
+E:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+E:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+E:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.xml
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.frm_vending_main.resources
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Resources.resources
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.vbproj.GenerateResource.Cache
+E:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.frm_payment.resources
+D:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+D:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+D:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+D:\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.xml
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.vbprojAssemblyReference.cache
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.frm_payment.resources
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.frm_vending_main.resources
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.Resources.resources
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.vbproj.GenerateResource.cache
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.vbproj.CoreCompileInputs.cache
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.xml
+D:\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
